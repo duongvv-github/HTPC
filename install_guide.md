@@ -4,8 +4,10 @@ Currently working on Ubuntu 20.04 minimal install of the desktop version.
 
 ## Basic linux install stuff:
 
-```sudo apt install curl
-sudo apt install net-tools```
+```
+sudo apt install curl
+sudo apt install net-tools
+```
 
 ### Client side:
 run the three bash scripts in any order
