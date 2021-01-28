@@ -1,15 +1,14 @@
 # Vincent_Flix
-Setting up a home theater pc/server ontop of a rasberry pi 4/ubuntu OS
-
+Setting up a home theater pc/server ontop of a windows 10
 Current Design (1.1):
 
 Client-side:
-- ~~Retroarch to play old video games~~ Will use retropi installed directly on ubuntu
-- Spotify to listen to music directly on ubuntu (will need to debug app)
+- retroarch on pc
+- Spotify to listen to music directly
 - firefox and general web browser stuff
 - Transmission to torrent stuff (vpn later)
 
-The client side intended to be installed on a desktop linux environment that is connected to a monitor of some kind.
+The client side intended to be installed on a desktop environment that is connected to a tv.
 
 The server side is not actually a server. Currently all designed to run on one machine and not be exposed to the wilder world.
 
